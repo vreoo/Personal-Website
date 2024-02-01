@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 body {
     font-family: Rubik, "sans-serif";
     background: #cad321;
@@ -90,4 +94,30 @@ footer {
     margin: 4rem 0 0 0;
 
     color: rgba(255, 255, 255, 0.8);
+}
+
+/* Loading animation */
+#loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #cad321;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    opacity: 1;
+    transition: opacity 0.5s ease; /* Add transition property for smooth fade-out */
+}
+
+#loader {
+    height: 15%;
+}
+
+/* Hide the loader when content is loaded */
+body.loaded #loader-wrapper {
+    opacity: 0; /* Set opacity to 0 when the body has the 'loaded' class */
+    pointer-events: none; /* Disable pointer events to allow interaction with underlying content */
 }
