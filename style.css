@@ -112,8 +112,9 @@ footer {
     transition: opacity 0.5s ease; /* Add transition property for smooth fade-out */
 }
 
-#loader {
-    height: 15%;
+#loader img {
+    width: 100px; /* Set the width and height of your GIF as needed */
+    height: 100px;
 }
 
 /* Hide the loader when content is loaded */
