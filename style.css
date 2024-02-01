@@ -8,8 +8,11 @@ body {
     color: #000;
     font-weight: 300;
     line-height: 1.6;
-    margin: 0;
-    padding: 0;
+
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -37,26 +40,24 @@ a {
 
 main {
     height: 28em;
-    bottom: 0;
-    left: 0;
-    top: 50px;
-    width: 100%;
+
+    /* width: 100%; */
     z-index: 0;
 
-    display: block;
+    margin: 0 5%;
+    max-width: 800px;
 }
 
 .container {
-    padding: 1em 0;
+    height: 28em;
+}
 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    margin: 0 auto;
-    max-width: 800px;
-    width: 100%;
+.content {
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 28em;
 }
 
 .btn {
