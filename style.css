@@ -4,8 +4,8 @@
 
 body {
     font-family: Rubik, "sans-serif";
-    background: #cad321;
-    color: #000;
+    background: #00504E;
+    color: #fff;
     font-weight: 300;
     line-height: 1.6;
 
@@ -30,7 +30,7 @@ h3 {
 
 p {
     font-size: 1.3rem;
-    color: rgba(0, 0, 0, 0.5);
+    color: rgb(255 255 255 / 80%);
 }
 
 a {
@@ -76,7 +76,7 @@ main {
 
 .btn:hover {
     background: #fff;
-    color: #cad321;
+    color: #00504E;
     transition: 0.3s all;
 }
 
@@ -100,7 +100,7 @@ footer {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #cad321;
+    background: #00504E;
     display: flex;
     justify-content: center;
     align-items: center;
