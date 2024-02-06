@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Guide"
-permalink: /guide
+permalink: /guide/
 ---
 
 # Marketing through WhatsApp | E-book
