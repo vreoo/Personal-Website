@@ -6,7 +6,8 @@ permalink: /guide/
 
 <style type="text/css">
   body {
-    border: 1px solid black;
+    background-color: #00504E;
+    color: #fff;
   }
 </style>
 
