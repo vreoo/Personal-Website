@@ -54,7 +54,7 @@ Businesses can use WhatsApp to send **one to-many** promotional messages and spa
 -   WhatsApp **Business** 🐥
     -   Built for small businesses by offering a business profile and ad-hoc customer service requests (Bookings, answering questions, etc...)
 -   WhatsApp **Business Platform**🐓
-    -   This paid business solution lets companies send **promotional** and **transactional** WhatsApp messages, contact customers proactively, and get the **verified account green tick**. <img src="./assets/verify.gif" width='20' />
+    -   This paid business solution lets companies send **promotional** and **transactional** WhatsApp messages, contact customers proactively, and get the **verified account green tick**. <img src="/assets/verify.gif" width='20' />
 
 ### Benefits of WhatsApp marketing
 
