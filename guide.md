@@ -4,6 +4,12 @@ title: "Guide"
 permalink: /guide/
 ---
 
+<style type="text/css">
+  body {
+    border: 1px solid black;
+  }
+</style>
+
 # Marketing through WhatsApp | E-book
 
 "**Smart campaigns, lasting relationships**"
