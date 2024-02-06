@@ -9,6 +9,14 @@ permalink: /guide/
     background-color: #00504E;
     color: #fff;
   }
+
+  h1, h2, h3 {
+    color: #fff;
+  }
+
+  li {
+      color: rgb(255 255 255 / 80%);
+  }
 </style>
 
 # Marketing through WhatsApp | E-book
@@ -17,34 +25,34 @@ permalink: /guide/
 
 ## Why WhatsApp? 🤔
 
--   #### More than **✌2 billion active users**📈
+-   More than **✌2 billion active users**📈
     -   Market your business on the world's most popular messaging app.
--   #### **98% average open-rate**🤳
+-   **98% average open-rate**🤳
     -   WhatsApp makes it easy for customers to interact with your brand.
--   #### **Send to many, chat one-to-one** 🫧
+-   **Send to many, chat one-to-one** 🫧
     -   Encourage two-way dialogue. Send messages in bulk and respond individually.
--   ##### Create head-turning campaigns with a **1,024 character** count, **CTAs**, **videos**, **emojis**, and more. 👋
+-   Create head-turning campaigns with a **1,024 character** count, **CTAs**, **videos**, **emojis**, and more. 👋
     -   _SMS campaigns are costly and doesn't offer what WhatsApp Campaign does_
--   #### Add WhatsApp to your workflows to automate message delivery based on where a customer is in their journey. 🤖
+-   Add WhatsApp to your workflows to automate message delivery based on where a customer is in their journey. 🤖
     -   Abandoned Carts
     -   Pending Payment
     -   post-order leads
     -   So many more ideas...
--   #### It's a new Marketing Channel and businesses can standout among other competitions. 🥊
+-   It's a new Marketing Channel and businesses can standout among other competitions. 🥊
 
 ## How WhatsApp marketing works? ⚙️
 
--   #### What are WhatsApp campaigns?
--   #### Key characteristics of a WhatsApp campaign
--   #### Understanding the different WhatsApp tools
--   #### Benefits of WhatsApp marketing
--   #### Use cases for WhatsApp campaigns
+-   **What are WhatsApp campaigns?**
+-   **Key characteristics of a WhatsApp campaign**
+-   **Understanding the different WhatsApp tools**
+-   **Benefits of WhatsApp marketing**
+-   **Use cases for WhatsApp campaigns**
 
-##### What are WhatsApp campaigns❓
+### What are WhatsApp campaigns❓
 
 Businesses can use WhatsApp to send **one to-many** promotional messages and spark **one-to one** conversations with those who respond to their campaign.
 
-##### Key characteristics of a WhatsApp campaign🔑
+### Key characteristics of a WhatsApp campaign🔑
 
 -   Multimedia messaging at scale
 -   Fully GDPR compliant
