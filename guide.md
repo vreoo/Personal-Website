@@ -15,13 +15,13 @@ permalink: /guide/
   }
 
   li {
-      color: rgb(255 255 255 / 80%);
+      color: rgb(255 255 255 / 87%);
   }
 </style>
 
 # Marketing through WhatsApp | E-book
 
-"**Smart campaigns, lasting relationships**"
+**\*"**Smart campaigns, lasting relationships**"\***
 
 ## Why WhatsApp? 🤔
 
@@ -29,7 +29,7 @@ permalink: /guide/
     -   Market your business on the world's most popular messaging app.
 -   **98% average open-rate**🤳
     -   WhatsApp makes it easy for customers to interact with your brand.
--   **Send to many, chat one-to-one** 🫧
+-   Send to many, chat one-to-one 🫧
     -   Encourage two-way dialogue. Send messages in bulk and respond individually.
 -   Create head-turning campaigns with a **1,024 character** count, **CTAs**, **videos**, **emojis**, and more. 👋
     -   _SMS campaigns are costly and doesn't offer what WhatsApp Campaign does_
@@ -109,7 +109,7 @@ Businesses can use WhatsApp to send **one to-many** promotional messages and spa
 
 If you are interested in taking your business marketing to the next level, feel free to reach out to me through these channels:
 
--   Email: business@nibrasshami.com
--   Phone: +96566768204
+-   Email: [business@nibrasshami.com](mailto:business@nibrasshami.com)
+-   Phone: [+96566768204](https://wa.me/+96566768204)
 
 Looking forward doing business with you!
