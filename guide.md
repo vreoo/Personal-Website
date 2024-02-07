@@ -10,7 +10,7 @@ permalink: /guide/
     color: #fff;
   }
 
-  img {
+  .markdown-body img {
     background-color: #fff0;
   }
 
