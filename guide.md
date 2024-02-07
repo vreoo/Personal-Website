@@ -10,6 +10,10 @@ permalink: /guide/
     color: #fff;
   }
 
+  img {
+    background-color: #fff0;
+  }
+
   h1, h2, h3, strong {
     color: #fff;
   }
