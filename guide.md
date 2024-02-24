@@ -37,7 +37,7 @@ permalink: /guide/
 
 # Marketing through WhatsApp | E-book
 
-**\*"**Smart campaigns, lasting relationships**"\***
+"***Smart campaigns, lasting relationships***"
 
 ## Why WhatsApp? 🤔
 
